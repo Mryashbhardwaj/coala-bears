@@ -16,7 +16,7 @@ entry_points:
     - coala_official_bears = bears
 
 coala_dependency:
-  git+https://github.com/jayvdb/coala@linter-stream-info-v2#egg=coala
+  git+https://github.com/jayvdb/coala@linter-stream-info-v3#egg=coala
 # coala_dependency: 5ed1163183
 
 configuration:
